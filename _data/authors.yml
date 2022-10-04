@@ -1,0 +1,80 @@
+Cubmaster:
+  name      : "Keith Santini"
+  bio       : "Been at this game long enough"
+  avatar    : "/assets/images/cubmaster-logo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cubmaster@pack420.us"
+
+Assistant Cubmaster:
+  name      : "John Wildes"
+  bio       : "Been around the world twice, talked to everyone once"
+  avatar    : "/assets/images/assistant-cubmaster-logo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:acm@pack420.us"
+
+Committe Chairman:
+  name      : "John Wildes"
+  bio       : "Pack 420 for life!"
+  avatar    : "/assets/images/pack-committee-chair-logo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:committeechair@pack420.us"
+
+Committee Member:
+  name      : "Scouter McScouterton"
+  bio       : "Been around the world twice, talked to everyone once"
+  avatar    : "/assets/images/committee-member-logo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:committee@pack420.us"
+
+Weblos Den Leader:
+  name      : "Scouter McScouterton"
+  bio       : "We Be Loyal Scouts!"
+  avatar    : "/assets/images/weblos-den-leader-logo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:weblos@pack420.us"
+
+Bear Den Leader:
+  name      : "Scouter McScouterton"
+  bio       : "Bear Down!"
+  avatar    : "/assets/images/den-leader-logo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bears@pack420.us"
+
+Wolf Den Leader:
+  name      : "Scouter McScouterton"
+  bio       : "Hooooowwwwwwllllling Good"
+  avatar    : "/assets/images/den-leader-logo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wolves@pack420.us"
+
+Tiger Den Leader:
+  name      : "Scouter McScouterton"
+  bio       : "Growlin good!"
+  avatar    : "/assets/images/den-leader-logo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tigers@pack420.us"
+
+Lion Den Leader:
+  name      : "Scouter McScouterton"
+  bio       : "Let's get this started!"
+  avatar    : "/assets/images/lion-coordinator.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lions@pack420.us"
